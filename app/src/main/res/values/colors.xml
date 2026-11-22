@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <item name="black" type="color">#000000</item>
-    <color name="ic_launcher_background">#FD9600</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="ic_launcher_background">#0D47A1</color>
 
-    <item name="status_green" type="color">#388e3c</item>
-    <item name="status_yellow" type="color">#f57f17</item>
-    <item name="status_red" type="color">#c62828</item>
-    <item name="status_idle" type="color">#CFD8DC</item>
+    <color name="status_green">#2E7D32</color>
+    <color name="status_yellow">#F57C00</color>
+    <color name="status_red">#C62828</color>
+    <color name="status_idle">#B0BEC5</color>
+
+    <color name="primary">#0D47A1</color>
+    <color name="primary_dark">#082E6B</color>
+    <color name="accent">#00BFA5</color>
+    <color name="background_light">#F5F7FA</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
 </resources>
